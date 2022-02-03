@@ -4,7 +4,6 @@ def calculateGrade():
     # This first line is provided for you
     
 try:
-       
     hrs = float(input("Enter score:"))
        
     if hrs >= 0.9 and hrs <= 1.0:
